@@ -1,0 +1,25 @@
+{
+  "name": "javascript_ebook_sales_app",
+  "version": "1.0.0",
+  "description": "App to sell ebook",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodolfoafl/JAVASCRIPT_Ebook_Sales_App.git"
+  },
+  "author": "Rodolfo A. F. Leal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodolfoafl/JAVASCRIPT_Ebook_Sales_App/issues"
+  },
+  "homepage": "https://github.com/rodolfoafl/JAVASCRIPT_Ebook_Sales_App#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "stripe": "^7.10.0"
+  }
+}
